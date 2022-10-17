@@ -1,0 +1,15 @@
+
+@media screen and (max-width:600px){
+    body {
+    background-color:yellow;
+    }
+
+}
+
+
+@media screen and (min-width:601px){
+    body {
+        background-color:lightblue;
+    }
+    
+    }
